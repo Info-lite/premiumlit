@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        {% include script.html %}
+        {% if page.flowplayer_conf %}
+        <script>
+            flowplayer.conf = {{ page.flowplayer_conf | jsonify }};
+        </script>
+        {% endif %}
+        {% if page.deprecated %}
+        <div class="alert alert-danger" role="alert">
+            <strong>このコンテンツは旧バージョンのソフトウェア向けのため今後更新されません。</strong>新バージョンに対応したコンテンツをご利用ください。
+        </div>
+        {% endif %}
+        {{ content }}
+        {% include footer.html %}
+    </body>
+</html>
