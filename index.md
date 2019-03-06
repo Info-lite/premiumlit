@@ -7,7 +7,7 @@ title: プレミアムカレッジ
 ------------------
 
 -   [情報処理教室の使い方と授業ガイダンス](contents/infolit/01/index.html)
--   [コンピュータの基本操作と構造](contents/infolit/02/index.html)
+-   [eラーニングシステムの利用法、本学メールシステムの利用法](contents/infolit/02/index.html)
 -   [ネットワークの仕組みと情報検索](contents/infolit/03/index.html)
 -   [情報の活用と情報倫理](contents/infolit/04/index.html)
 
