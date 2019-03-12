@@ -45,16 +45,27 @@ flowplayer_conf:
 ### 授業予定
 
 　① ガイダンス、タイピング
-　[② タイピング、文章編集１（文字飾り、箇条書き）](../../office2016/word/02/index.html)
+
+　[② タイピング、文章編集１（文字飾り、箇条書き）](../../word/02/index.html)
+
 　[③ タイピング、文章編集２（表の作成）](../../office2016/word/03/index.html)
+
 　[④ タイピング、文章編集３（画像の貼付、図形描画）](../../office2016/word/04/index.html)
+
 　[⑤ タイピング入力テスト、表計算１（セル及びシートの操作、オートフィル機能）](../../office2016/excel/01/index.html)
+
 　[⑥ 表計算２（簡単な数式、絶対参照・相対参照、関数の利用１）](../../office2016/excel/02/index.html)
+
 　[⑦ 表計算３（関数の利用２、ソート、グラフの作成）](../../office2016/excel/03/index.html)
+
 　[⑧ プレゼンテーション１（意義、目的、スライドの内容、構成、PowerPointの概要）](../../office2016/powerpoint/01/index.html)
+
 　[⑨ プレゼンテーション２（デザイン、文字の入力、表・画像・図・リンクの挿入）](../../office2016/powerpoint/02/index.html)
+
 　[⑩ プレゼンテーション３（画面切り替え、アニメーション、スライドショー）](../../office2016/powerpoint/03/index.html)
+
 　[⑪ プレゼンテーション４（スライド・配布資料の作成、口頭・身体表現の効果）](../../office2016/powerpoint/04/index.html)
+
 　[⑫ プレゼンテーション５（発表会）](../../office2016/powerpoint/05/index.html)
 
 ### 教材
