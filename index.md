@@ -22,9 +22,9 @@ title: プレミアムカレッジ
 -   [表計算２](contents/office2016/excel/02/index.html)
 -   [表計算３](contents/office2016/excel/03/index.html)
     -   [課題提出のための実習時間](contents/office2016/excel/04/index.html)
--   [プレゼンテーションの概要と実習](contents/office2016/powerpoint/01/index.html)
-    -   [課題提出のための実習時間](contents/office2016/powerpoint/02/index.html)
--   [プレゼンテーション実演](contents/office2016/powerpoint/03/index.html)
+-   [プレゼンテーションの基本](contents/office2016/powerpoint/01/index.html)
+-   [プレゼンテーションの実践①（標準）](contents/office2016/powerpoint/02/index.html)
+-   [プレゼンテーションの実践②（発展）](contents/office2016/powerpoint/03/index.html)
 
 
 eラーニング
