@@ -22,7 +22,7 @@ body {
 /* Not required for template or sticky footer method. */
 
 body > .container {
-    padding: 0 15px 0;
+    padding: 0 1rem 1rem;
 }
 .container .text-muted {
     margin: 20px 0 0;
@@ -68,8 +68,8 @@ body > .container {
     color: #d04424;
 }
 
-.alert > p {
-    margin: 0;
+.alert > p, .alert > ul {
+    margin-bottom: 0;
 }
 
 .caption {
