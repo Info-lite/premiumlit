@@ -75,8 +75,16 @@ body > .container {
     color: #a2383c;
 }
 
+.alert p {
+    margin: 0;
+}
+
 .caption {
     text-align: center;
+}
+
+.card-title {
+    margin: 0;
 }
 
 .link {
