@@ -16,7 +16,7 @@ module Jekyll
       appendix_label = (context.registers[:site].config['appendix_label'] || '参考資料')
 
       s = %|<div class="link">\n|
-      s += %|<span class="label label-info">#{appendix_label}</span>|
+      s += %|<span class="badge badge-info">#{appendix_label}</span>|
       s += %|<a href="#{@link_uri}">#{@link_text}</a>\n|
       s += "</div>\n"
 

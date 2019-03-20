@@ -25,7 +25,7 @@ body > .container {
     padding: 0 15px 0;
 }
 .container .text-muted {
-    margin: 20px 0;
+    margin: 20px 0 0;
 }
 
 #footer > .container {
@@ -33,12 +33,13 @@ body > .container {
     padding-left: 15px;
 }
 
-.container a:before{
-    font-family: 'Font Awesome\ 5 Free';
-    margin: 0 3px;
+.container a:before, .container a:after {
+    font-family: 'Font Awesome 5 Free';
+    margin: 0 0.25rem;
 }
 .container a[href^="http://"]:before, a[href^="https://"]:before {
-    content: '\f08e';
+    content: '\f35d';
+    font-weight: bold;
     color: #03c;
 }
 .container a[href*="tmu.ac.jp"]:before {
@@ -50,10 +51,6 @@ body > .container {
     margin: 0 !important;
 }
 
-.container a:after{
-    font-family: 'Font Awesome\ 5 Free';
-    margin: 0 3px;
-}
 .container a[href$=".pdf"]:after {
     content: '\f1c1';
     color: #ff0505;
@@ -70,12 +67,8 @@ body > .container {
     content: '\f1c4';
     color: #d04424;
 }
-.container a[href$=".accdb"]:after {
-    content: '\f0f6';
-    color: #a2383c;
-}
 
-.alert p {
+.alert > p {
     margin: 0;
 }
 
@@ -83,22 +76,34 @@ body > .container {
     text-align: center;
 }
 
+.card {
+    width: fit-content;
+}
+
+.card > p {
+    margin: 0;
+}
+
+.card-text > ul {
+    margin: 0;
+}
+
 .card-title {
     margin: 0;
 }
 
 .link {
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
 }
 
-.link .label {
+.link .badge {
     font-size: 90%;
-    margin-right: 0.5em;
+    margin-right: 0.5rem;
 }
 
-h1 .label {
+h1 .badge {
     font-size: 90%;
-    margin-right: 0.5em;
+    margin-right: 0.5rem;
 }
 
 h2 {
