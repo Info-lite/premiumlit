@@ -66,19 +66,23 @@ flowplayer_conf:
 
 -   [情報処理教室のシステム概要図](http://www.comp.tmu.ac.jp/manual/info/network.pdf)
 
-320室は Mac 環境となっています。設置されているパソコンが mac mini なので、MacOS X が起動します。
-しかし、パラレルスデスクトップにより Windows 環境を利用することができます。
+320室は Mac 環境となっています。設置されているパソコンが mac mini なので、macOS が起動します。
+しかし、bootcamp により Windows 環境を利用することができます。
 
--   [Windows起動・ログオン・ログオフについて](http://www.comp.tmu.ac.jp/tmuner/pc/mac_riyou7.html)（TMUNER内）
+-   [Windows起動・サインイン・サインアウトについて](http://www.comp.tmu.ac.jp/tmuner/study/pc/mac/mac-riyou7.html)
 
-330室・340室・350室、および115室・貸出ノートパソコンは Windows 環境となっています。Windows のバージョンは教室によって異なることがありますが、基本操作は同じです。
+330室・340室・350室、および115室・貸出ノートパソコンは Windows 環境となっています。
 
-これらのパソコンごとの違いやインストールされているアプリケーションなど、教室ごとの環境の違いについては [ハードウェア・ソフトウェア構成](http://www.comp.tmu.ac.jp/tmuner/pc/minami_pc.html )を参考にしてください。
+これらのパソコンごとの違いやインストールされているアプリケーションなど、教室ごとの環境の違いについては下記を参考にしてください。
 
 -   [TMUNER](http://www.comp.tmu.ac.jp/tmuner/)
-    -   [Windows利用ガイド](http://www.comp.tmu.ac.jp/tmuner/pc/riyou2.html)
-    -   [Macintosh利用ガイド](http://www.comp.tmu.ac.jp/tmuner/pc/mac_riyou3.html)
--   [パソコン教室 ハードウェア・ソフトウェア構成](http://www.comp.tmu.ac.jp/tmuner/pc/minami_pc.html)
+    -   [情報処理教室](http://www.comp.tmu.ac.jp/tmuner/study/pc/)
+    -   [ハードウェア構成](http://www.comp.tmu.ac.jp/tmuner/study/pc/kousei.html)
+    -   [ソフトウェア構成(Win)](http://www.comp.tmu.ac.jp/tmuner/study/pc/kousei-win.html)
+    -   [ソフトウェア構成(Mac)](http://www.comp.tmu.ac.jp/tmuner/study/pc/kousei-mac.html)
+    -   [Windows利用ガイド](http://www.comp.tmu.ac.jp/tmuner/study/pc/windows/)
+    -   [Mac利用ガイド](http://www.comp.tmu.ac.jp/tmuner/study/pc/mac/)
+
 
 #### 注意
 
@@ -86,8 +90,6 @@ flowplayer_conf:
 たとえば、Windows 環境で作成してマイドキュメントに保存したデータを Mac 環境から開くこと、あるいはその逆の操作をすることができます。
 
 自習のために開放されている教室はいつも同じとは限りません。しかし、どの教室でも同じ作業ができることを知っておいてください。
-教室のパソコンを使用する際には、ログオンして使用できるようにしなければなりません。
-ここでは、Windows 7環境を使用する際の基本操作、ログオン・ログオフの方法について説明します。Mac 環境の場合は、[Macintosh利用ガイド](http://www.comp.tmu.ac.jp/tmuner/pc/mac_riyou3.html) を参照してください。
 
 ### 教室パソコンの利用方法
 
@@ -104,7 +106,7 @@ Mac 環境の場合は、一度再起動し Windows で起動してから利用�
 &#9313; ユーザー名やパスワードを入力し、[OK]をクリックします。
 
 1.  "ユーザー名"：
-     "ユーザー名"： 大学の教育研究用システムを利用する際のユーザー名を入力します。「pc」＋「学修番号の2桁目」＋「学修番号の下2桁」＋「tmu」から構成される8文字を入力してください。(例)「2019」年度入学の学修番号「01234567」の方は「pc967tmu」となります。
+     "ユーザー名"： 大学の教育研究用システムを利用する際のユーザー名を入力します。学修番号をそのまま入力してください。
 1.  "パスワード"： 
      初回授業時に配布したもの、あるいは、自身で設定した場合はそちらを入力してください。
 1.  "サインイン先"：
@@ -145,8 +147,6 @@ Mac 環境の場合は、一度再起動し Windows で起動してから利用�
 なお、パスワードの有効期限は**180日**です。パスワードの失効に注意してください。
 
 -   [利用者メニュー パスワード変更操作手順](./change_passwd.pdf)
-
-2019年度から首都大学東京教育研究用情報システム利用要綱第28条が変更となり、パスワードの有効期限が撤廃されることになりました。新しい規則に沿うように各システムの変更を順次行っていますが、時間を要するものがありますので、パスワードの有効期限が有効になっているシステムでは失効する前にパスワードの変更をお願いいたします。
 
 
 アプリケーションの起動と終了
