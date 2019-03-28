@@ -72,6 +72,35 @@ body > .container {
     color: #d04424;
 }
 
+.container > ol {
+    counter-reset: my-counter;
+    list-style: none;
+    padding: 0;
+}
+
+.container > ol > li {
+    margin-bottom: 10px;
+    padding-left: 30px;
+    position: relative;
+}
+.container > ol > li:before {
+    content: counter(my-counter);
+    counter-increment: my-counter;
+    background-color: #153472;
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 1.125rem;
+    line-height: 1.4rem;
+    margin-top: 0.1rem;
+    margin-left: -0.5rem;
+    margin-right: 0.5rem;
+    text-align: center;
+    height: 1.4rem;
+    width: 1.4rem;
+    border-radius: 50%;
+}
+
 .alert > p, .alert > ul {
     margin-bottom: 0;
 }
