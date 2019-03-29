@@ -12,5 +12,5 @@ permalink: /pctechnique/
 -   [表計算（２）](/premium/contents/office2016/excel/02/index.html)
 -   [表計算（３）](/premium/contents/office2016/excel/03/index.html)
 -   [プレゼンテーションの基本](/premium/contents/office2016/powerpoint/01/index.html)
--   [プレゼンテーションの実践①（標準）](/premium/contents/office2016/powerpoint/02/index.html)
--   [プレゼンテーションの実践②（発展）](/premium/contents/office2016/powerpoint/03/index.html)
+-   [プレゼンテーションの実践&#9312;（標準）](/premium/contents/office2016/powerpoint/02/index.html)
+-   [プレゼンテーションの実践&#9313;（発展）](/premium/contents/office2016/powerpoint/03/index.html)
