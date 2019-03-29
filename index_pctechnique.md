@@ -4,7 +4,7 @@ title: パソコン技術
 permalink: /pctechnique/
 ---
 
-  - [ガイダンス、タイピング](/premium/contents/office2015/word/01/index.html)
+  - [ガイダンス、タイピング](/premium/contents/office2016/word/01/index.html)
   - [タイピング、文書編集１](/premium/contents/office2016/word/02/index.html)
   - [タイピング、文書編集２](/premium/contents/office2016/word/03/index.html)
   - [タイピング、文書編集３](/premium/contents/office2016/word/04/index.html)
