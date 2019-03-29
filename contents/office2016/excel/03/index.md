@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 表計算（３）
+title: 表計算３
 purposes:
     - 関数の利用方法を学ぶ
     - ソートやフィルターの使い方を理解する
