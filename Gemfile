@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rake'
-gem 'jekyll', '~> 3.0'
+gem 'jekyll', '~> 3.6'
 gem 'redcarpet'
 gem 'slack-notifier'
 
