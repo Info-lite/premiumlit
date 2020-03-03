@@ -25,12 +25,12 @@ flowplayer_conf:
 例文を入力する前に、自分の**学修番号**と**氏名**を入力しておきましょう。
 
 
-Microsoft Word 2016の概要
+Microsoft Word 2019の概要
 --------------------
 
 <div class="alert alert-info" role="alert">
 <strong>Microsoft Office の共通点</strong>
-<p>ウィンドウ各部の名称や基本操作は Microsoft Office 2016 の各製品（Word, Excel, PowerPoint など）で共通です。</p>
+<p>ウィンドウ各部の名称や基本操作は Microsoft Office 2019 の各製品（Word, Excel, PowerPoint など）で共通です。</p>
 </div>
 
 ### ウィンドウ各部の名称
