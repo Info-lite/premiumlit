@@ -84,8 +84,8 @@ purposes:
 最も知られているプレゼンテーションソフトは、Microsoftが提供している「PowerPoint（パワーポイント）」で、日本では「パワポ」の愛称で親しまれています。
 PowerPointを使うと、文字や画像、グラフや表などが入った、わかりやすく見栄えのよいスライドを作成できます。
 
-現時点の最新バージョンは、PowerPoint2016です。
-実際の操作方法については、「4. Microsoft PowerPoint 2016の概要」に説明が記載されています。
+現時点の最新バージョンは、PowerPoint2019です。
+実際の操作方法については、「4. Microsoft PowerPoint 2019の概要」に説明が記載されています。
 
 ### 発表練習をする
 
@@ -101,13 +101,13 @@ PowerPointを使うと、文字や画像、グラフや表などが入った、�
 そして、何度も練習をすることで、緊張せずにわかりやすく発表できる度胸と技術が身に付いていきます。
 
 
-Microsoft PowerPoint 2016の概要
+Microsoft PowerPoint 2019の概要
 -------------------------------
 
 ### Microsoft PowerPointの起動
 
   1. [スタート]をクリックします
-  2. [すべてのプログラム] - [Microsoft Office] - [PowerPoint 2016] をクリックします
+  2. [すべてのプログラム] - [Microsoft Office] - [PowerPoint 2019] をクリックします
 
 ### プレゼンテーションの作成
 
