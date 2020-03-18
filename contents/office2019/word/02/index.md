@@ -88,7 +88,7 @@ Microsoft Word 2019の概要
 
 ページのレイアウト、見やすさを設定します。
 
-{% screenshot word_ribbon_page.png "リボン ページ レイアウト" %}
+{% screenshot word_ribbon_page.png "リボン レイアウト" %}
 
 #### 参考資料
 
