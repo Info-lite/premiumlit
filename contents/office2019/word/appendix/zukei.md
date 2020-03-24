@@ -103,16 +103,16 @@ date: 2016-03-16 09:55:38 +0900
 
 [挿入]リボン - ![ワードアート](pic/word_wordart.png) をクリックします。任意のスタイルを選択してください。
 
-{% screenshot word02_zukei_20wordart.png "テキストボックス" %}
+{% screenshot word02_zukei_20wordart.png "ワードアート" %}
 
 `ここに文字を入力` という文字列を、ワードアートにしたい文字列に置き換えます。
 
-{% screenshot word02_zukei_21wordart.png "テキストボックス" %}
+{% screenshot word02_zukei_21wordart.png "ワードアート" %}
 
-{% screenshot word02_zukei_22wordart.png "テキストボックス" %}
+{% screenshot word02_zukei_22wordart.png "ワードアート" %}
 
 ワードアートが表示されると同時に、ワードアート
 ツールの[書式]リボンが表示されました。このリボンで詳細な設定をすることができます。
 
-{% screenshot word02_zukei_23wordart.png "テキストボックス" %}
+{% screenshot word02_zukei_23wordart.png "ワードアート" %}
 
