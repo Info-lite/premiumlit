@@ -18,7 +18,7 @@ purposes:
 
 -   [いちご狩りファイル(ichigo.xlsx)](./ichigo.xlsx)
 
-{% screenshot itigo.png "いちご狩りファイル" %}
+{% screenshot ichigo.png "いちご狩りファイル" %}
    
 ### 数式処理
 
@@ -243,7 +243,7 @@ Excel でデータを扱う上で、参照という概念を理解する必要�
   2. [塗りつぶし]を選択します。ここでセルの背景の設定が出来ます。
     {% screenshot cellcolor.png "セルの書式設定ダイアログ 塗りつぶしタブ" %}
   3. [ホーム]リボン内の[フォント]パネルでも指定することができます。
-    {% screenshot int6.png "フォントパネルによる簡易的な塗りつぶし設定" %}
+    {% screenshot colortoolbar.png "フォントパネルによる簡易的な塗りつぶし設定" %}
 
 #### 印刷範囲
 
