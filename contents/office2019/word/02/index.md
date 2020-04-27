@@ -8,6 +8,37 @@ flowplayer_conf:
     - ratio: 0.75
 ---
 
+<div>
+    <div class="panel panel-info">
+    <div class="panel-heading">本講に関する学習動画</div>
+        <div class="panel-body">
+            <p>本講の授業内容に関する【説明動画】が1つあります。こちらの動画に加えて、本講で作成するファイルを完成させるために必要なWordの機能について詳細に説明している【操作動画】もあります。操作動画は、その機能について説明している箇所で視聴できます。</p>
+            <p><font color="red">注意：大人数が一斉に動画を再生すると動画が再生されないことがあります。時間をずらして視聴してください。</font></p>
+
+<div id="class_movie"></div>
+<p><button type="button" class="btn btn-info pull-right" data-toggle="modal" data-target="#autosumModal">
+<!--<p><button type="button" class="btn btn-info" data-toggle="modal" data-target="#autosumModal">-->
+<i class="fa fa-play-circle-o fa-lg"></i>&nbsp;説明動画
+</button>
+<div class="modal fade" id="autosumModal" tabindex="-1" role="dialog" aria-labelledby="autosumModalLabel" aria-hidden="true">
+<div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<span class="modal-title" id="autosumModalLabel">授業内容</span>
+</div>
+<div class="modal-body">
+<div class="flowplayer is-splash color-light img-responsive" style="max-width:854px;">
+<video>
+<source type="video/mp4" src="../../../../../lit/video/05_word.mp4">
+</video>
+</div>
+</div>
+</div></div>
+</div></p>
+        </div>
+    </div>
+</div>
+
 タイピング
 --------------------
 
@@ -256,7 +287,7 @@ Wordでは、その他にも色々なスタイルに文字を変えることが�
 
 これでフッターにページ数が入りました。
 また[ヘッダーとフッターを閉じる] で通常の編集画面に戻ることができます。
-{% screenshot word01_31footer.png "ヘッダーとフッターを閉じる" %}
+{% screenshot word01_31footer.png "ヘッダーとフッターと閉じる" %}
 
 ヘッダーとフッターにはこの他様々な情報を入れることができます。
 これでほぼ完成しました。後は、見やすいように微調整してください。
