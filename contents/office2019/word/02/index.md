@@ -9,9 +9,9 @@ flowplayer_conf:
 ---
 
 <div>
-    <div class="panel panel-info">
-    <div class="panel-heading">本講に関する学習動画</div>
-        <div class="panel-body">
+    <div class="card bg-light mb-3">
+    <div class="card-header">本講に関する学習動画</div>
+        <div class="card-body">
             <p>本講の授業内容に関する【説明動画】が1つあります。こちらの動画に加えて、本講で作成するファイルを完成させるために必要なWordの機能について詳細に説明している【操作動画】もあります。操作動画は、その機能について説明している箇所で視聴できます。</p>
             <p><font color="red">注意：大人数が一斉に動画を再生すると動画が再生されないことがあります。時間をずらして視聴してください。</font></p>
 
