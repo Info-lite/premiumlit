@@ -4,41 +4,8 @@ title: 表計算１
 purposes:
     - 表計算ソフトウェアにおけるセル及びシートの操作を習得する
     - オートフィル機能の使い方を理解する
-flowplayer_conf:
-    - embed: false
-    - ratio: 0.75
 ---
 
-<div>
-    <div class="card bg-light mb-3">
-    <div class="card-header">本講に関する学習動画</div>
-        <div class="card-body">
-            <p>本講の授業内容に関する【説明動画】が1つあります。こちらの動画に加えて、本講で作成するファイルを完成させるために必要なExcelの機能について詳細に説明している【操作動画】もあります。操作動画は、その機能について説明している箇所で視聴できます。</p>
-            <p><font color="red">注意：大人数が一斉に動画を再生すると動画が再生されないことがあります。時間をずらして視聴してください。</font></p>
-
-<div id="class_movie"></div>
-<p><button type="button" class="btn btn-info pull-right" data-toggle="modal" data-target="#autosumModal">
-<!--<p><button type="button" class="btn btn-info" data-toggle="modal" data-target="#autosumModal">-->
-<i class="fa fa-play-circle-o fa-lg"></i>&nbsp;説明動画
-</button>
-<div class="modal fade" id="autosumModal" tabindex="-1" role="dialog" aria-labelledby="autosumModalLabel" aria-hidden="true">
-<div class="modal-dialog"><div class="modal-content">
-<div class="modal-header">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-<span class="modal-title" id="autosumModalLabel">授業内容</span>
-</div>
-<div class="modal-body">
-<div class="flowplayer is-splash color-light img-responsive" style="max-width:854px;">
-<video>
-<source type="video/mp4" src="../../../../../lit/video/xl01_basic1.mp4">
-</video>
-</div>
-</div>
-</div></div>
-</div></p>
-        </div>
-    </div>
-</div>
 
 Microsoft Excel 2019の概要
 --------------------------
@@ -142,15 +109,14 @@ Excel では、作業したデータを "ブック" と呼びます。
 
 ####  新規作成
 
-1.  「ホーム」または「新規作成」から「空白のブック」をクリックします。
-{% screenshot shinki.png "新規作成" %}
+  1. ![ファイル タブ](../02/pic/filebutton.png) をクリックします
+  2. ![新規作成](pic/sinki.png) - ![新しいブック](pic/white.png) をクリックします
 
 #### 既存ブックのオープン（改訂、再編集）
 
-1.  ![ファイル タブ](../02/pic/filebutton.png) をクリックします。
-1.  {% screenshot open.png "既存ブックのオープン" %}
-「開く」から「参照」をクリックし、目的のブックのあるフォルダに移動します
-1.  目的のファイルのアイコン ![Excel ブック形式ファイル](pic/xlsx.png) をダブルクリック、または選択して開きます
+  1. ![ファイル タブ](../02/pic/filebutton.png) をクリックします
+  2. ![開く](pic/open.png) - ![参照](pic/sansyo.png) - 目的のブックのあるフォルダに移動します
+  3. 目的のファイルのアイコン ![Excel ブック形式ファイル](pic/xlsx.png) をダブルクリック、または選択して開きます
 
 あるいは、目的の文書のあるフォルダに移動し、そのアイコンをダブルクリックします。
 
