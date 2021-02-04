@@ -104,6 +104,10 @@ PowerPointを使うと、文字や画像、グラフや表などが入った、�
 Microsoft PowerPoint 2019の概要
 -------------------------------
 
+PowerPoint操作でできることを知りたい、操作方法についてわからないことがある、といった場合は、以下のウェブサイトを参照しましょう。
+
+[**Microsoft PowerPointのヘルプとトレーニング**](https://support.microsoft.com/ja-jp/powerpoint?ui=ja-jp&rs=ja-jp&ad=jp)
+
 ### Microsoft PowerPointの起動
 
   1. [スタート]をクリックします
