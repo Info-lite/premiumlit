@@ -264,8 +264,8 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
 {% screenshot 1gokan.jpg "1号館" %}
 {% screenshot computercenter.jpg "情報処理施設" %}
 
-320室は Mac 教室となっていて、Mac 環境を利用可能です。
-なお、パソコンを Windows 環境で起動し直すことで、Windows 環境を利用することもできます。
+320室は Mac 教室となっていて、Mac 環境を利用可能です。  
+なお、320教室でMac環境とWindows環境を切り替える方法については以下のページを確認してください。  
 
   - [Mac 環境における Windows 起動・サインイン・サインアウトについて](http://www.comp.tmu.ac.jp/tmuner/study/pc/mac/mac-riyou7.html)
 
