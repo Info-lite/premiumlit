@@ -35,8 +35,7 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
 
 ログインできない場合は下記サイトを参照してください。
 
-FAQ: kibacoにログインできません
-https://www.comp.tmu.ac.jp/e-learning/faq/invalid-login.html
+[FAQ: kibacoにログインできません](https://www.comp.tmu.ac.jp/e-learning/faq/invalid-login.html)
   
 #### ログアウト
 
