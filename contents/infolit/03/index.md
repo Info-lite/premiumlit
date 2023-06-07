@@ -57,7 +57,7 @@ purposes:
 
 このように、宛名や署名を付けることは色々とメリットがあるので、必ずメールの本文には誰から（送信者の署名）誰に（受信者の宛名）送ったものなのかを書く習慣を身に付けましょう。
 
-{% appendix https://infolit.uec.tmu.ac.jp/lit/contents/basics/appendix/office365.html#chapter1 "署名の設定" %}
+{% appendix /lit/contents/basics/appendix/office365.html#chapter1 "署名の設定" %}
 
 #### 内容がわかる件名を心がける
 
@@ -77,7 +77,7 @@ purposes:
 これらの理由から、必要以上にファイルを電子メールに添付することは避けましょう。
 特に、サイズの大きなファイル（メガバイト単位のデータ）については、電子メールに添付して送ってよいかを相手に確認してから添付・送信するようにしましょう。
 
-{% appendix https://infolit.uec.tmu.ac.jp/lit/contents/basics/appendix/office365.html#chapter2 "ファイルの添付" %}
+{% appendix /lit/contents/basics/appendix/office365.html#chapter2 "ファイルの添付" %}
 
 また、メールマガジンやダイレクトメールなどに多く見られますが、背景や画像がついた"HTMLメール"と呼ばれる種類の電子メールがあります。
 HTMLメールは一見華やかですが、用件以外の余分なデータがつくことになり、相手が迷惑に感じることもあります。
