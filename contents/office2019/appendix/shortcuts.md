@@ -58,10 +58,10 @@ Windows
 
 ここに挙げたショートカットキーはほんの一例です。もっと詳しく知りたい場合は、下記サイト等を参照してください。
 
--   [キーボード ショートカット キーの一覧](http://www.microsoft.com/ja-jp/enable/products/keyboard/default.aspx) (Microsoft)
+-   [キーボード ショートカット キーの一覧](https://www.microsoft.com/ja-jp/enable/products/keyboard-default) (Microsoft)
 
 
-Mac OSX
+macOS
 -------
 
 Windowsで、[Ctrl] + ? としていたものの多くは、[Command] + ? で有効です。[Command]というのは、キーボード左下にある⌘キーのことです。
@@ -117,5 +117,5 @@ Windowsで、[Ctrl] + ? としていたものの多くは、[Command] + ? で有
 
 ここに挙げたショートカットキーはほんの一例です。もっと詳しく知りたい場合は、下記サイト等を参照してください。
 
--   [OSX:キーボードショートカット](https://support.apple.com/ja-jp/HT201236)(Apple)
+-   [Macのキーボードショートカット](https://support.apple.com/ja-jp/HT201236)(Apple)
 
