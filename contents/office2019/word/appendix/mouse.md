@@ -9,7 +9,7 @@ date: 2016-03-11 09:00:43 +0900
 
 下は一般的なマウスの画像です。
 
-{% screenshot main.png "" %}
+{% screenshot main_2.png "" %}
 
 
 ボタン操作
