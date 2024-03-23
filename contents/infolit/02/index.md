@@ -344,7 +344,7 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
 メールアドレスをはじめとした利用者情報や前述の無線LAN接続のための情報などは、「TMUNER」の画面左側にある「利用者メニュー」にログインして確認します。
 そのほか、教育研究用情報システムのパスワード変更も利用者メニューで行います。
 
-  1. [TMUNER](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/index.html) にアクセスして、画面右上の "利用者メニュー ログイン" リンクをクリックします。
+  1. [TMUNER](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/index.html) にアクセスして、画面右上の "利用者メニューへのログイン" リンクをクリックします。
     {% screenshot usermenu1.webp "TMUNER トップページ" %}
   2. TMU IDとパスワードを入力してログインします。
     {% screenshot usermenu3.png "ログイン画面" %}
