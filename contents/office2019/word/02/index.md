@@ -29,7 +29,7 @@ flowplayer_conf:
 <div class="modal-body">
 <div class="flowplayer is-splash color-light img-responsive" style="max-width:854px;">
 <video>
-<source type="video/mp4" src="https://infolit.uec.tmu.ac.jp/mov/05_word.mp4">
+<source type="video/mp4" src="https://lit.fpark.tmu.ac.jp/mov/05_word.mp4">
 </video>
 </div>
 </div>
