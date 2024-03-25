@@ -163,7 +163,7 @@ TMUNERには、本学のパソコンの利用方法や、インターネット�
 
 ### 学内サイト
 
-  * [TMUNER](http://www.comp.tmu.ac.jp/tmuner/)
+  * [TMUNER]( https://tmuner.cpark.tmu.ac.jp/tmuner/ja/index.html)
 
 
 ### 学外サイト

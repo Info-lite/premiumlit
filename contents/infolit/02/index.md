@@ -22,14 +22,9 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
 
 #### ログイン
 
-  1. 「Microsoft Edge」などのウェブブラウザと呼ばれる種類のアプリケーションを起動し、アドレスバーに [https://kibaco.tmu.ac.jp/](https://kibaco.tmu.ac.jp/) と入力します。
-    {% screenshot login1.png "アドレスバーへの入力" %}
-    情報処理教室等では、[デスクトップ](../01/index.html#chapter9)に kibaco へのショートカット（「eラーニングシステムkibaco」アイコン）がありますので、そのアイコンをダブルクリックしても構いません。
-  2. 「ログインはこちら」の[教員・学生] ボタンをクリックし、ログイン画面に移動して、ユーザIDおよびパスワードを入力し[ログイン]ボタンを押します。
-    kibacoにログインするためのユーザIDはTMU ID（学修番号@ed.tmu.ac.jp）です。パスワードは、[教室パソコンの利用方法][]で説明されている「パスワード」と同じです。
-    {% screenshot login2.png "kibacoログイン前" %}
+  1. [kibaco](https://kibaco-d.tmu.ac.jp/login)にアクセスし、[ログイン]ボタンを押してTMU ID（学修番号@ed.tmu.ac.jp）でログインします。パスワードは、[教室パソコンの利用方法][]で説明されている「パスワード」と同じです。
     {% screenshot login3.webp "kibacoログイン TMUID" %}
-  3. ログインに成功すると、トップページが表示されます。
+  2. ログインに成功すると、トップページが表示されます。
     ここには、授業に関するお知らせや、教務からのお知らせなどが表示されます。
     左の [資料] や [授業一覧] を押すことで、kibacoの **マイページ** に移動できます。
     {% screenshot login4.webp "kibacoトップページ" %}
@@ -40,7 +35,7 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
 
 ログインできない場合は下記サイトを参照してください。
 
-[FAQ: kibacoにログインできません](https://www.comp.tmu.ac.jp/e-learning/faq/invalid-login.html)
+[FAQ: kibacoにログインできません](https://e-learning.cpark.tmu.ac.jp/e-learning/ja/faq/invalid-login.html)
   
 #### ログアウト
 
@@ -272,7 +267,7 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
 320室は Mac 教室となっていて、Mac 環境を利用可能です。  
 なお、320教室でMac環境とWindows環境を切り替える方法については以下のページを確認してください。  
 
-  - [MacとWindowsの切り替え方法について](http://www.comp.tmu.ac.jp/tmuner/study/pc/mac/mac-riyou7.html)
+  - [MacとWindowsの切り替え方法について](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/mac/mac-riyou7.html)
 
 330室・340室・350室、および115室・貸出ノートパソコンは Windows 環境となっています。
 
@@ -283,7 +278,7 @@ kibacoでは、利用を開始するためにログインし、利用を終了�
     - [ハードウェア構成](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/kousei.html)
     - [ソフトウェア構成(Win)](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/kousei-win.html)
     - [ソフトウェア構成(Mac)](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/kousei-mac.html)
-    - [Windows利用ガイド](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/windows/)
+    - [Windows利用ガイド](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/windows.html)
     - [Mac利用ガイド](https://tmuner.cpark.tmu.ac.jp/tmuner/ja/study/pc/mac.html)
 
 <div id="unified" class="alert alert-danger" role="alert">
