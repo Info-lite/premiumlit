@@ -212,7 +212,7 @@ Microsoft Wordの起動
 
 無料で利用できるWebサイトを活用して、タイピングの練習をしてみましょう。
 
-  * [P検　無料タイピング練習［インターネット版］](http://www.pken.com/tool/typing.html)
+  * [P無料タイピング教材（マナビジョン）](https://manabi.benesse.ne.jp/gakushu/typing/)
     - 正確な指使いを覚えるためのホームポジション、日本語入力、英語入力などを簡単に練習することができます。
       所要時間は、それぞれ1～5分程度です。
   * [FUJITSU 実践！タッチタイピング](http://azby.fmworld.net/usage/lesson/keyboard/typing/)
