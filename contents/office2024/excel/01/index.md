@@ -7,7 +7,7 @@ purposes:
 ---
 
 
-Microsoft Excel 2019の概要
+Microsoft Excel 2024の概要
 --------------------------
 
 Excel は表計算ソフトウェアと呼ばれる種類のアプリケーションソフトウェアです。
