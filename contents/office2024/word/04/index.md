@@ -81,7 +81,7 @@ Microsoft Wordでは、さまざまな図を描くことができます。
 
 線の色や太さ、線の種類などを変更することができます。
 
-設定を変更したい線を選択 - [書式]リボン - ![図形の枠線](pic/word_figure_custom.png) をクリックします。
+設定を変更したい線を選択 - [図形の書式]リボン - ![図形の枠線](pic/word_figure_custom.png) をクリックします。
 
 {% screenshot word02_30figure.png "図形のカスタマイズ" %}
 
